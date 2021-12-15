@@ -47,7 +47,12 @@ scrolling='yes' ></iframe>
 
 
 # Sentiment Analysis of Yelp Hotel Reviews
-      
+
+## Run in Anaconda:
+jupyter nbconvert index.ipynb --to markdown --TemplateExporter.exclude_code_cell=True
+jupyter nbconvert index.ipynb --to markdown --TemplateExporter.exclude_input=True
+## 
+   
 Mary Kryslette C. Bunyi   
 PPOL566 (Data Science III) Extra Credit Project
 
