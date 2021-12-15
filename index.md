@@ -10,11 +10,20 @@ PPOL566 (Data Science III) Extra Credit Project
 
 # Methods
 Exploratory data analysis shows that the dataset is largely imbalanced and skewed towards higher ratings (i.e., 4 and 5). Mapping the 1-5 Yelp rating scale to positive (4-5) and negative (1-3) sentiment still shows an imbalance. However, this can be remedied by taking equal-sized samples for our sentiment analysis models.
-![image.png](attachment:image.png)
 
-![image.png](attachment:image.png)
 
+<img align="left" src="index_files/index_72_0.png" width="600px">
 To speed up computation, I took a sample of 500 observations each from the set of positive and negative reviews. I also cleaned the text by expanding contractions (which may be important since they may denote negation) and removing non-letters.
+
+<br clear="left">
+<br clear="left">
+<br clear="left">
+
+<img align="left" src="index_files/index_67_0.png" height="200px">
+<img align="right" src="index_files/index_68_0.png" height="200px">
+
+<br clear="left">
+<br clear="left">
 
 I ran the lexicon-based (TextBlob) and transfer learning (BERT sentiment analysis) models to both the raw and cleaned data to check for the robustness of their performances. Since TextBlob outputs a polarity score instead of binary labels, I determined the cut-off scores based on the value where the distributions of the true positive and negative sentiments meet. Above this cut-off, reviews are labeled positive. Below this cut-off, reviews are identified as negative.
 
@@ -610,5 +619,5 @@ We get evaluation metric scores higher than 70% across the board. Since we used 
 
 
 
-![png](index_files/index_72_0.png)
+
 
