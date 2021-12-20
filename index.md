@@ -42,8 +42,7 @@ Upload to plotly
 Embed iframe code
  
 ### Tableau Dashboard
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/DataVizProject-Draft/bankingpresencevssavings?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600'
-scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/1FinancialResiliencevsFinancialAccess/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
 
 # Sentiment Analysis of Yelp Hotel Reviews
