@@ -5,6 +5,10 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 author_profile: false
 
+# header:
+#   overlay_image: /assets/images/unsplash-image-1.jpg
+#   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-include-cache
