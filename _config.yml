@@ -1,5 +1,5 @@
 #theme: jekyll-theme-cayman
 #remote_theme: chrisrhymes/bulma-clean-theme
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mkbunyi/minimal-mistakes
 
 #minimal_mistakes_skin: air # “air”, “aqua”, “contrast”, “dark”, “dirt”, “neon”, “mint”, “plum”, “sunrise”
