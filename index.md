@@ -1,6 +1,5 @@
 ### Tableau Dashboard
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/1FinancialResiliencevsFinancialAccess/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/1FinancialResiliencevsFinancialAccess/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
