@@ -14,7 +14,7 @@ In analyzing financial inclusion, I used data from the World Bank Global Financi
 > - Filter to isolate only the relevant data points.
 > - Hover over the data points to show a tooltip containing that country’s details.
 > - Click on the Tableau logo at the bottom left corner to open the visualization in a new tab (in a much better looking format!)  
-> Note that highlighting blurs but keeps the rest of the data points in the background, while filtering subsets the data points you wish to view.
+> - Note that highlighting blurs but keeps the rest of the data points in the background, while filtering subsets the data points you wish to view.
 
   
   
