@@ -1,21 +1,24 @@
 ### Tableau Dashboard
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/1FinancialResiliencevsFinancialAccess/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/1FinancialResiliencevsFinancialAccess/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/1FinancialResiliencevsFinancialAccess/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/2FinancialResiliencevsIncomeInequality/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/1FinancialResiliencevsFinancialAccess/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/3WBGlobalFindex/access?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/1FinancialResiliencevsFinancialAccess/Dashboard2?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/3WBGlobalFindex/inclusion?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/2FinancialResiliencevsIncomeInequality/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/3WBGlobalFindex/inclusion_poorest?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/3WBGlobalFindex/access?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/3WBGlobalFindex/borrow?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/3WBGlobalFindex/inclusion?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/3WBGlobalFindex/save?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/3WBGlobalFindex/inclusion_poorest?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/kryslette.bunyi/viz/3WBGlobalFindex/reason?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/3WBGlobalFindex/borrow?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/3WBGlobalFindex/save?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/3WBGlobalFindex/reason?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '600' scrolling='yes' ></iframe>
 
 
 
