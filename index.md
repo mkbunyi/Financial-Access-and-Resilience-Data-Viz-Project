@@ -1,4 +1,4 @@
-# Examining Financial Resilience and Inclusion using World Bank Global Findex Data
+# Financial Resilience and Inclusion Data Story using World Bank Global Findex Data
 
 Resilience is a concept that the COVID-19 pandemic has highlighted. The pandemic surfaced vulnerabilities across all sectors, especially for lower income households who are the hardest hit by financial and employment shocks and who rely on financial safety nets to weather the uncertainty and instability of the situation. Empowering the vulnerable to achieve financial resilience is key to lifting them out of poverty and helping them stay out of it. If we can determine the most important environmental factors that build financial resilience, then we can come up with better targeted interventions to curb the financial insecurity experienced by a significant proportion of the people and help them achieve upward economic mobility.
 
