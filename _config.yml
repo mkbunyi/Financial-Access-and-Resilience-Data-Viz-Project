@@ -1,15 +1,15 @@
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 #remote_theme: chrisrhymes/bulma-clean-theme
 #remote_theme: pages-themes/architect@v0.2.0
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-author_profile: false
-layout: single
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# author_profile: false
+# layout: single
 
-header:
-  overlay_image: https://unsplash.com/photos/sYffw0LNr7s
-  caption: "Photo by [Federico Respini](https://unsplash.com/@federicorespini) on [**Unsplash**](https://unsplash.com)"
+# header:
+#   overlay_image: https://unsplash.com/photos/sYffw0LNr7s
+#   caption: "Photo by [Federico Respini](https://unsplash.com/@federicorespini) on [**Unsplash**](https://unsplash.com)"
 
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-include-cache
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+# - jekyll-include-cache
