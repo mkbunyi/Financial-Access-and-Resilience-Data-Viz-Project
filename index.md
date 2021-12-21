@@ -4,8 +4,9 @@ Resilience is a concept that the COVID-19 pandemic has highlighted. The pandemic
 
 ## Data
 
-In analyzing financial inclusion, I use data from the World Bank Global Financial Inclusion (Global Findex) Database 2014 and 2017 as well as World Bank’s estimates for income inequality (Gini index) from the World Development Indicators (for 2017 or the latest year available prior). The Global Findex survey asks individual respondents about financial resilience, which is framed as the ability of the respondent to gather emergency funds within the next month of an appropriate amount set by the researchers.
+In analyzing financial inclusion, I used data from the World Bank Global Financial Inclusion (Global Findex) Database 2014 and 2017 as well as World Bank’s estimates for income inequality (Gini index) from the World Development Indicators (for 2017 or the latest year available prior). The Global Findex survey asks individual respondents about financial resilience, which is framed as the ability of the respondent to gather emergency funds within the next month of an appropriate amount set by the researchers.
 
+<br>
 > #### ☝️ Interacting with the data visualizations:
 > There are various ways you can interact with the data. Feel free to explore and generate your own insights!
 > - Click on the individual data points to highlight that country, income level, or region.
