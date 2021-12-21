@@ -17,10 +17,9 @@ In my analysis, I used data from the World Bank Global Financial Inclusion (Glob
 > - Note that highlighting blurs but keeps the rest of the data points in the background, while filtering subsets the data points you wish to view.
 
   
-<br><br>  
+<br>  
   
 ## Tracing the links of financial resilience  
-<br>
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/1FinancialResiliencevsFinancialAccess/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1000' height = '800' scrolling='yes' ></iframe>
 
 Is financial access indicative of financial resilience? The map above indicates that it may not necessarily be so. While individuals in most countries with high financial access do tend to possess high financial resilience, it is also possible to have high access but remain low in resilience (as is the case for South Africa). The converse also holds – Vietnam is low in financial access but high in resilience.  
